@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# pers0na — red team transcripts
+# Trial transcripts contain attack payloads, raw model responses, system
+# prompts, and reasoning text. They can be sensitive and noisy. Don't
+# commit them. If you want to share an example run, hand-curate a
+# sanitized version elsewhere.
+runs/

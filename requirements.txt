@@ -1,0 +1,7 @@
+# pers0na — direct prompt-injection harness with persona-hijack attacks
+
+google-genai>=1.0,<2
+
+# If you want to use the OpenRouter alternative (Appendix A), uncomment
+# the line below and comment out google-genai above.
+# openai>=1.40
